@@ -283,6 +283,7 @@ font-family: 'Ubuntu', sans-serif;
     background-color: #fff;
     border: 1px solid #ddd;
     border-radius: 4px;
+    width: 1200px;
 }
 .thumbnail:hover{
     -webkit-box-shadow: 15px 15px 16px 7px rgba(0,0,0,0.75);
